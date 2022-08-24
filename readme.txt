@@ -1,9 +1,8 @@
 === Custom Team Manager ===
 Contributors: Ibnul
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=9PTQZ4R2SP7FS&lc=MY&item_name=WebSpider&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: Add Team Member, custom team manager, team manager, team management, custom team management, responsive team manager, team members, staff manager, wordpress team manager, team member, ajax team manager
 Requires at least: 3.5
-Tested up to: 4.1
+Tested up to: 6.0.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,12 +12,6 @@ This plugin will display team members using shortcode on your page. You just nee
 == Description ==
 
 This plugin will display team members of your company using shortcode on your post or page. You just need to post members details same way as you add a new post. And everything will be there automatically. Use Team Management menu to add new member and see team-members page. It's shortcode enabled, responsive and easy to use. You can change to Gridview display of members from Settings page. There are few other options too.
-
-Live Demo: http://webdevsbd.com/team-members/
-
-= Custom Team Manager Needs Your Support =
-
-A little donation is really inspiring and helpful to develop free plugins, in fact it's hard to continue development and support for this free plugin without contributions from users like you. If you enjoy using Custom Team Manager and find it useful, please consider making a donation.
 
 = Recommended Plugins =
 * [Post Types Order](https://wordpress.org/plugins/post-types-order/) - With Post Types Order, you can reorder your team members easily, it's just drag and drop.
@@ -100,6 +93,10 @@ Use `[cmt-content]`your content here`[/cmt-content]` to show some content before
 3. Settings Page view.
 
 == Changelog ==
+
+= ver 2.4.2 - 24.08.2022 =
+* Removed donation link
+* changed author url
 
 = ver 2.4.1 - 13.01.2015 =
 * Added Category option
