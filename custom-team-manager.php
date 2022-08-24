@@ -1,15 +1,15 @@
 <?php
 /**
  * Plugin Name: Custom Team Manager
- * Plugin URI: http://webspiderbd.com
+ * Plugin URI: https://mywpstudios.com/
  * Description: A custom plugin to manage your team members. Shortcode enabled. Responsive Layout. Easy to use. Just need to install/activate this plugin and add team members through Management Team menu on Dashboard.
- * Version: 2.4.1
- * Author: webspiderbd team
- * Author URI: http://webspiderbd.com
+ * Version: 2.4.2
+ * Author: Ibnul Hasan
+ * Author URI: https://mywpstudios.com/
  */
 
  
-define( 'CMT_VERSION', '2.4.1' );
+define( 'CMT_VERSION', '2.4.2' );
  
 require_once(dirname(__FILE__) . '/inc/functions.php');
 require_once(dirname(__FILE__) . '/inc/shortcodes.php');
